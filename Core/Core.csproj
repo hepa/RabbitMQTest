@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Messaging\ISerializer.cs" />
-    <Compile Include="Messaging\Models\Person.cs" />
+    <Compile Include="Models\Person.cs" />
     <Compile Include="Messaging\Serilaizers\JsonSerializer.cs" />
     <Compile Include="Messaging\Serilaizers\ProtobufSerializer.cs" />
     <Compile Include="Messaging\Serilaizers\SerializerFactory.cs" />

@@ -1,6 +1,6 @@
 ﻿using ProtoBuf;
 
-namespace Core.Messaging.Models
+namespace Core.Models
 {
     [ProtoContract]
     public class Person
